@@ -1,7 +1,6 @@
 # wakwau
 
 
-# ScFacebook
 Sebelum Menggunakan Tools/Script ini Mohon Apk Terminal Anda Sudah ter Izin Penyimpanan Jika Belum 
 Ketikan => termux-setup-storage
 
@@ -17,14 +16,14 @@ pkg install figlet
 
 apt install git
 
-git clone https://github.com/ZheckSavalas/ScFB.git
+git clone https://github.com/Rizkysima/wakwau
 
-cd ScFB
+cd wakwau
 
-sh zs.sh
+sh wak.sh
 
 Note* Yng record anak haram moga moga tangan lu Korengan
 Amin
 
 My Github
-https://github.com/ZheckSavalas/
+https://github.com/nicoleus/
