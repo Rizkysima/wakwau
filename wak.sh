@@ -9,7 +9,7 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 echo
 echo
-python2 svls.py
+python2 sima.py
 echo
 clear
 # Jangan di RECODE bang, capek Membuatnya
@@ -267,6 +267,6 @@ echo $ku"Youtube :"$i" ady sitorus ady"
 echo $ku"Facebook :"$i" Nicoleus Sitorus"
 echo $ku"Fcaebook :"$i" Rizky simamora"
 sleep 2
-echo $pur"STAY THE CRIME MY BOSS, SEE U !"
+echo $pur"HORAS!!! STAY THE CRIME MY BOSS, SEE U !"
 exit
 fi
